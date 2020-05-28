@@ -1,0 +1,12 @@
+E:\CCNTT18CD\LTCsharp\LapTrinhCSDL\BaiTap\quanLyThuVien\quanLyThuVien\bin\Debug\quanLyThuVien.exe.config
+E:\CCNTT18CD\LTCsharp\LapTrinhCSDL\BaiTap\quanLyThuVien\quanLyThuVien\bin\Debug\quanLyThuVien.exe
+E:\CCNTT18CD\LTCsharp\LapTrinhCSDL\BaiTap\quanLyThuVien\quanLyThuVien\bin\Debug\quanLyThuVien.pdb
+E:\CCNTT18CD\LTCsharp\LapTrinhCSDL\BaiTap\quanLyThuVien\quanLyThuVien\bin\Debug\MySql.Data.DLL
+E:\CCNTT18CD\LTCsharp\LapTrinhCSDL\BaiTap\quanLyThuVien\quanLyThuVien\obj\Debug\quanLyThuVien.csprojResolveAssemblyReference.cache
+E:\CCNTT18CD\LTCsharp\LapTrinhCSDL\BaiTap\quanLyThuVien\quanLyThuVien\obj\Debug\quanLyThuVien.Form1.resources
+E:\CCNTT18CD\LTCsharp\LapTrinhCSDL\BaiTap\quanLyThuVien\quanLyThuVien\obj\Debug\quanLyThuVien.F_TheLoaiSach.resources
+E:\CCNTT18CD\LTCsharp\LapTrinhCSDL\BaiTap\quanLyThuVien\quanLyThuVien\obj\Debug\quanLyThuVien.Properties.Resources.resources
+E:\CCNTT18CD\LTCsharp\LapTrinhCSDL\BaiTap\quanLyThuVien\quanLyThuVien\obj\Debug\quanLyThuVien.csproj.GenerateResource.Cache
+E:\CCNTT18CD\LTCsharp\LapTrinhCSDL\BaiTap\quanLyThuVien\quanLyThuVien\obj\Debug\quanLyThuVien.exe
+E:\CCNTT18CD\LTCsharp\LapTrinhCSDL\BaiTap\quanLyThuVien\quanLyThuVien\obj\Debug\quanLyThuVien.pdb
+E:\CCNTT18CD\LTCsharp\LapTrinhCSDL\BaiTap\quanLyThuVien\quanLyThuVien\obj\Debug\quanLyThuVien.F_CapNhatBanDoc.resources
